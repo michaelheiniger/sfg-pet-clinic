@@ -1,4 +1,4 @@
-package ch.qscqlmpa.sfgpetclinic;
+package ch.qscqlmpa.sfgpetclinic.model;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
